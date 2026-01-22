@@ -6,7 +6,7 @@ on:
       DEVICE_IMG:
         description: '(.img) file link'
         required: true
-        default: 'https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/raw/sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1704766504051-release-keys--ID/vendor_boot.img'
+        default: 'https://ulmacid-my.sharepoint.com/personal/2110415210011_mhs_ulm_ac_id/_layouts/15/download.aspx?share=IQBI7izSQ3gARJmyagyfWhrcAa4JcMaBRR_hEjq0V-2r_bw'
       DEVICE_BRANCH:
         description: 'your device branch name (Optional)'
         required: true
