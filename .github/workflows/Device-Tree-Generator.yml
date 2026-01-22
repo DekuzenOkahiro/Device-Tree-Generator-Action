@@ -6,7 +6,7 @@ on:
       DEVICE_IMG:
         description: '(.img) file link'
         required: true
-        default: 'https://dumps.tadiphone.dev/dumps/samsung/a05s/-/raw/a05snsdxx-user-14-UP1A.231005.007-A057FXXS5CXH9-release-keys/recovery.img'
+        default: 'https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/raw/sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1704766504051-release-keys--ID/vendor_boot.img'
       DEVICE_BRANCH:
         description: 'your device branch name (Optional)'
         required: true
@@ -18,7 +18,7 @@ on:
       EMPTY_REPO:
         description: 'your empty repo name on github (Optional)'
         required: true
-        default: 'android_device_samsung_a05s.git'
+        default: 'android_device_RMX3630.git'
       COMMIT_MESSAGE:
         description: 'your commit message (Optional)'
         required: true
