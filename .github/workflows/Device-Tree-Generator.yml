@@ -6,7 +6,7 @@ on:
       DEVICE_IMG:
         description: '(.img) file link'
         required: true
-        default: 'https://ulmacid-my.sharepoint.com/personal/2110415210011_mhs_ulm_ac_id/_layouts/15/download.aspx?share=IQBI7izSQ3gARJmyagyfWhrcAa4JcMaBRR_hEjq0V-2r_bw'
+        default: 'https://tmpfiles.org/dl/20869232/vendor_boot.img'
       DEVICE_BRANCH:
         description: 'your device branch name (Optional)'
         required: true
